@@ -2,7 +2,9 @@
 
 O objetivo do Projeto 01 é desenvolver um sistema utilizando os componentes presentes na placa [BitDogLab](https://github.com/BitDogLab/BitDogLab). A publicação do projeto no GitHub, além de divulgar seu trabalho, contribui para o aumento do acervo de informações sobre o tema, servindo de base para novos projetos e ideias.
 
-A organização do trabalho deve ter o nome da dupla e como funciona o trabalho em termos não técnicos, por exemplo, se o seu trabalho for um jogo, a explicação no readme seria como funciona o seu jogo e não a descrição detalhada do código. Os termos técnicos devem aparecer no documento que vocês vão enviar no moodle, conforme a descrição apresentada na mesma plataforma. 
+A organização no readme do trabalho deve ter o nome da dupla e como funciona o trabalho em termos não técnicos, por exemplo, se o seu trabalho for um jogo, a explicação no readme seria como funciona o seu jogo e não a descrição detalhada do código. Os termos técnicos devem aparecer no documento que vocês vão enviar no moodle, conforme a descrição apresentada na mesma plataforma. 
+
+É necessário fazer o commit do código explicado por meio de comentários nas próprias linhas do código e de forma organizada. 
 
 Para trabalho com o GitHub, segue uma organização de um projeto realizado na disciplina de Sistemas Embarcados no semestre 2024.1 como modelo (opcional): 
 
