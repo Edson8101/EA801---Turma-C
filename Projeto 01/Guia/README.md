@@ -28,7 +28,7 @@ Esta primeira versão do BitDogLab_Math contém 5 perguntas com 5 alternativas c
 O fluxograma abaixo ilustra o funcionamento do programa:
 
 <div align="center">
-<img src="./fluxograma.png" alt="Description of the image" width="500"/>
+<img src="./fluxograma (1).png" alt="Description of the image" width="500"/>
 </div>
 
 Para mais informações, é possível acessar o relatório do projeto disponibilizado no [link](https://docs.google.com/document/d/1t0RudSiQLCfQGe18FgQLw0GA5CTjqmQ4/edit?usp=sharing&ouid=113991507111012118869&rtpof=true&sd=true). 
