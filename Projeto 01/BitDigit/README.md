@@ -11,8 +11,8 @@ Este projeto implementa um sistema embarcado completo de reconhecimento de dígi
 
 ## 👥 Autores
 
-- **Rafael Pissaia Savitsky** – RA: 248459  
 - **Enzo Guimarães Campos** – RA: 247069
+- **Rafael Pissaia Savitsky** – RA: 248459  
 
 ---
 
