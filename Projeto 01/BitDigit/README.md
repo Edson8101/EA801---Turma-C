@@ -103,12 +103,3 @@ O sistema permite ao usuário percorrer imagens de dígitos usando o joystick, v
 5. Leia o valor transmitido na característica GATT.
 
 ---
-
-## 📦 Futuras Melhorias
-
-- Exibir o resultado também no OLED.
-- Enviar histórico de inferências via BLE.
-- Suporte a desenho de imagem com o joystick.
-- Interface visual para celular (app dedicado).
-
----
