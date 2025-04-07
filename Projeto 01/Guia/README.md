@@ -4,9 +4,9 @@ O objetivo do Projeto 01 é desenvolver um sistema utilizando os componentes pre
 
 A organização no readme do trabalho deve ter o nome da dupla e como funciona o trabalho em termos não técnicos, por exemplo, se o seu trabalho for um jogo, a explicação no readme seria como funciona o seu jogo e não a descrição detalhada do código. Os termos técnicos devem aparecer no documento que vocês vão enviar no moodle, conforme a descrição apresentada na mesma plataforma.
 
-É necessário fazer o commit do código explicado por meio de comentários nas próprias linhas do código e de forma organizada.
+É necessário realizar o commit do código, garantindo que ele esteja devidamente explicado por meio de comentários nas próprias linhas, de forma clara e organizada.
 
-Para trabalho com o GitHub, segue uma organização de um projeto realizado na disciplina de Sistemas Embarcados no semestre 2024.1 como modelo (opcional): 
+Para o trabalho com o GitHub, segue, como modelo opcional, a estrutura de organização de um projeto desenvolvido na disciplina de Sistemas Embarcados, durante o semestre 2024.1:
 
 # MODELO: PROJETO BITDOGLAB_MATH - Trabalho realizado na Disciplina IE323 
 
@@ -39,7 +39,7 @@ Para mais informações, é possível acessar o relatório do projeto disponibil
 2. Conecte a placa BitDogLab ao computador através de um cabo micro-USB.
 3. Siga as instruções em [Introdução prática a BitDogLab](https://escola-4-ponto-zero.notion.site/Cap-tulo-02-Usando-o-IDE-Thonny-para-desenvolvimento-d5dce52947244cd6a64da4ba77831c7a) para certificar-se que a BitDogLab está sendo reconhecida no Thonny.
 4. Baixe os códigos `main.py` e pergunta_resposta.py neste repositório.
-5. No Thonny, acesse `Arquivo > Abrir` e localize os arquivos `main.py` e pergunta_resposta.py(por exemplo, na pasta Downloads).
+5. No Thonny, acesse `Arquivo > Abrir` e localize os arquivos `main.py` e `pergunta_resposta.py`(por exemplo, na pasta Downloads).
 6. Pressione o botão "play" (triângulo verde) para executar o programa na BitDogLab temporariamente.
 7. Se a execução estiver correta e você quiser salvar o código na BitDogLab para executá-lo posteriormente, então:
 8. se você desejar preservar o programa atual de sua BitDogLab, antes de prosseguir, salve o arquivo main.py existente em uma pasta de seu computador.
