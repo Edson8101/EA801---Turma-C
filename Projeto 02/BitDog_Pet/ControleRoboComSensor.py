@@ -72,10 +72,10 @@ autorun = False
 fromauto = False
 smoothrun = True
 smoothdelay = 1
-stopcmd = False  # <-- Adicione esta linha
-othercmd = ""    # <-- Adicione esta linha para evitar outro possível erro
-autostep = 0     # <-- Adicione esta linha para o modo automático
-heightchange = 0       # Controle de altura
+stopcmd = False  
+othercmd = ""    
+autostep = 0    
+heightchange = 0       
 
 
 # Ângulos atuais dos servos
@@ -101,8 +101,8 @@ TOLeg4B = LALeg4B
 TOHeadservo = LAHeadservo
 
 # Configuração do sensor de distância
-trigPin = Pin('A2', Pin.OUT)  # Substitua 'A2' pelo pino correto no seu hardware
-echoPin = Pin('A3', Pin.IN)   # Substitua 'A3' pelo pino correto no seu hardware
+trigPin = Pin('A2', Pin.OUT)  # Não configurado para a bitdog nesse projeto
+echoPin = Pin('A3', Pin.IN)   # Não configurado para a bitdog nesse projeto
 
 def initial_position():
     """Posição inicial do robô"""

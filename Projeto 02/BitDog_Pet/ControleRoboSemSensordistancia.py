@@ -72,9 +72,9 @@ autorun = False
 fromauto = False
 smoothrun = True
 smoothdelay = 2
-stopcmd = False  # <-- Adicione esta linha
-othercmd = ""    # <-- Adicione esta linha para evitar outro possível erro
-autostep = 0     # <-- Adicione esta linha para o modo automático
+stopcmd = False  
+othercmd = ""    
+autostep = 0     
 heightchange = 0       # Controle de altura
 
 # Ângulos atuais dos servos
@@ -391,7 +391,7 @@ def main_loop():
                 forwardsteps = 0
                 changeheight()
             elif autostep == 1:
-                reccmd = "F"  # Modificado: Sem verificação de distância
+                reccmd = "F"  
                 if Fheight != 5:
                     moveforwardsteps += 1
                     if moveforwardsteps > totalforwardsteps:
@@ -403,7 +403,7 @@ def main_loop():
                     Fheight -= 1
                     Bheight -= 1
                     changeheight()
-                    # Modificado: Removida verificação de distância
+                   
                     forwardsteps = 0
                     moveforwardsteps = 0
                     autostep = 1
@@ -424,7 +424,7 @@ def main_loop():
                 Servomovement()
                 smoothdelay = 2
                 
-                reccmd = "L"  # Modificado: Sem verificação de distâncias laterais
+                reccmd = "L"  
                 movesidesteps = 0
                 autostep = 4
             elif autostep == 4:
