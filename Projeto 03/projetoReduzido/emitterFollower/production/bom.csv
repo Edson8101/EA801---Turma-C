@@ -1,6 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"C1, C3",CP_Radial_D5.0mm_P2.00mm,2,10u,C2960200
-"C2, C4",CP_Radial_D10.0mm_P5.00mm,2,C_Polarized,C2960261
-"R1, R2, R4, R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,4,820,C58624
-"R6, R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,16,C3352033
-"TP1, TP2, TP3, TP4",TestPoint_THTPad_D4.0mm_Drill2.0mm,4,TestPoint,
