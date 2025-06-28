@@ -129,11 +129,12 @@ O programa é um sistema interativo para avaliação auditiva em formato de jogo
     * Lógica:
         * Intervalos entre testes (2-5s)
         * Níveis de amplitude (128-2048)
-
-### Esquemático do circuito
-
+        * 
 A equação abaixo descreve o comportamento da saída $V_o$ do amplificador diferencial, em função da entrada inversora $V_-$ e a entrada não inversora $V_+$. Os resistores estão rotulados como no esquemático.
 
 $$
 V_{o}=-\frac{R_{2}}{R_{1}}V_{-}+\frac{R_{4}}{R_{3}+R_{4}}\cdot\frac{R_{1}+R_{2}}{R_{1}} \cdot V_{+}
 $$
+
+###
+Código de software do projeto disponível no arquivo .py dentro do diretório projetoReduzido
