@@ -137,4 +137,4 @@ V_{o}=-\frac{R_{2}}{R_{1}}V_{-}+\frac{R_{4}}{R_{3}+R_{4}}\cdot\frac{R_{1}+R_{2}}
 $$
 
 ###
-Código de software do projeto disponível no arquivo .py dentro do diretório projetoReduzido
+Código de software do projeto disponível no arquivo .py dentro do diretório projetoReduzido. Esquemático da PCB e do circuito disponíveis no projeto kicad com a extensão .kicad_pro
